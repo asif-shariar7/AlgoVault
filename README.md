@@ -1,10 +1,8 @@
-# DSA & DAA Practice Repository
+## DSA & DAA Practice Repository
 
 Welcome to my **Data Structures and Algorithms (DSA)** and **Design and Analysis of Algorithms (DAA)** code archive!
 
 This repository contains **some problems** that I solved during my **initial learning stage of DSA & DAA** in my **2nd year journey as a CSE student**. I'm uploading these here mainly for **storage, backup**, and to **organize my work** for easier future reference.
-
----
 
 ## Lab Reports
 
