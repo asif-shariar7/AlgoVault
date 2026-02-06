@@ -1,4 +1,4 @@
-# 📚 DSA & DAA Practice Repository
+# DSA & DAA Practice Repository
 
 Welcome to my **Data Structures and Algorithms (DSA)** and **Design and Analysis of Algorithms (DAA)** code archive!
 
@@ -11,8 +11,8 @@ This repository contains **some problems** that I solved during my **initial lea
 📎 **DAA_Lab_Report.pdf** – A documentation of my DAA practice and implementation.
 
 The report includes:
-- ✅ Brief theory and algorithm for each problem  
-- ✅ Code screenshots  
-- ✅ Input/output screenshots  
-- ✅ Graphs and diagrams created using online tools/websites  
-- ✅ Sample input styles used during testing
+- Brief theory and algorithm for each problem  
+- Code screenshots  
+- Input/output screenshots  
+- Graphs and diagrams created using online tools/websites  
+- Sample input styles used during testing
